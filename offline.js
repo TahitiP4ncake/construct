@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1495488898,
+	"version": 1495522842,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,10 @@
 		"images/plant-sheet0.png",
 		"images/swordblade-sheet0.png",
 		"images/dummy-sheet0.png",
+		"images/plantcut-sheet0.png",
+		"images/particles.png",
+		"images/plantparticule-sheet0.png",
+		"images/snake1-sheet0.png",
 		"media/bass.ogg",
 		"media/pas1.ogg",
 		"media/pas2.ogg",
