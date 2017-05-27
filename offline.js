@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1495712488,
+	"version": 1495880171,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,9 +27,14 @@
 		"images/particles.png",
 		"images/plantparticule-sheet0.png",
 		"images/snake1-sheet0.png",
+		"images/snake2-sheet0.png",
+		"images/snake3-sheet0.png",
 		"images/dog-sheet0.png",
 		"images/dogdirection-sheet0.png",
-		"images/sprite-sheet0.png",
+		"images/doghead-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/curseur-sheet0.png",
+		"images/plant2-sheet0.png",
 		"media/bass.ogg",
 		"media/pas1.ogg",
 		"media/pas2.ogg",
