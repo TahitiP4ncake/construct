@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1495880171,
+	"version": 1495962401,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,10 @@
 		"images/sprite2-sheet0.png",
 		"images/curseur-sheet0.png",
 		"images/plant2-sheet0.png",
+		"images/dummybottom-sheet0.png",
+		"images/knife-sheet0.png",
+		"images/boomerang-sheet0.png",
+		"images/boomerangdirection-sheet0.png",
 		"media/bass.ogg",
 		"media/pas1.ogg",
 		"media/pas2.ogg",
