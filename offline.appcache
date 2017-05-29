@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1495962401
+#1496042903
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -38,6 +38,7 @@ images/dummybottom-sheet0.png
 images/knife-sheet0.png
 images/boomerang-sheet0.png
 images/boomerangdirection-sheet0.png
+images/bodyshadow-sheet0.png
 media/bass.ogg
 media/pas1.ogg
 media/pas2.ogg

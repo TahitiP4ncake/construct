@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1495962401,
+	"version": 1496042903,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,7 @@
 		"images/knife-sheet0.png",
 		"images/boomerang-sheet0.png",
 		"images/boomerangdirection-sheet0.png",
+		"images/bodyshadow-sheet0.png",
 		"media/bass.ogg",
 		"media/pas1.ogg",
 		"media/pas2.ogg",
